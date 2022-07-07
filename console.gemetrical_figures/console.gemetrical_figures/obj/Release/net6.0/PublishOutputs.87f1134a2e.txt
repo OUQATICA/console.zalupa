@@ -1,0 +1,5 @@
+D:\ы\unity\рандомные скрипты на с#\release\console.gemetrical_figures.exe
+D:\ы\unity\рандомные скрипты на с#\release\console.gemetrical_figures.dll
+D:\ы\unity\рандомные скрипты на с#\release\console.gemetrical_figures.deps.json
+D:\ы\unity\рандомные скрипты на с#\release\console.gemetrical_figures.runtimeconfig.json
+D:\ы\unity\рандомные скрипты на с#\release\console.gemetrical_figures.pdb
